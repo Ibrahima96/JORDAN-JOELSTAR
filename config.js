@@ -76,7 +76,7 @@ module.exports = {
   caption : process.env.CAPTION || "🅹🄾🆁🅳🄰🄽-🅹🄾🅴🄻🅂🅃🄰🆁" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "bicom lab",
-  packname: process.env.PACK_NAME || "🤔🙂‍↕️🙂‍↔️",
+  packname: process.env.PACK_NAME || "🤔🙂‍↔️",
   botname : process.env.BOT_NAME  || "🅼︎🅸🄻🅴🅂",
   ownername:process.env.OWNER_NAME|| "bicomaru Shogunaī",
 
